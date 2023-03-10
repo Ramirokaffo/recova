@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "115614886894",
+    "project_id": "recova-app",
+    "storage_bucket": "recova-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115614886894:android:8223d1b33b529811cd3cff",
+        "android_client_info": {
+          "package_name": "com.example.recova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115614886894-fnhiifrimb1ohtd1maabneslt6v28lep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJIE_aPrKZM5iy-3QuOvsQgTFK_GJR9O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115614886894-fnhiifrimb1ohtd1maabneslt6v28lep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115614886894-5sibor20aua0j2df0v9rot5aeag1be8p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.recova"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

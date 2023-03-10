@@ -1,0 +1,25 @@
+// const uri = '172.20.10.6:3000';
+const uri = 'localhost:3000';
+const loseObjectRoute = "object/getObjectByCategorie/P";
+const allRecoverObjectRoute = "object/getObjectByCategorie/R";
+const selectObjectByTypeRoute = "object/getObjectByType/";
+const selectObjectByIdRoute = "object/getObjectById/";
+const getOneUserDataByIdRoute = "user/getOneUserDataById";
+const userUpdsateAccountRoute = "user/userUpdateAccount";
+const userDeleteInAccountRoute = "user/userDeleteInAccount";
+const objectSearchRoute = "object/getSearchResult";
+const recoverChangeNRtoRRoute = "object/recoverChangeNRtoR";
+const sendProofOwnerImageRoute = "/object/saveProofImage";
+const userGetPendingTransactionRoute = "object/userGetPendingTransaction";
+const userGetOnwerObjectTransactionRoute =
+    "object/userGetOnwerObjectTransaction";
+const recoverOrLoseObjectRoute = '/object/addRecoverOrLoseObject';
+const saveUserObjectDataRoute = "object-save/userSaveOwnerObject";
+const getObjectTypeRoute = "object/getObjectType";
+const getPrincipalObjectTypeRoute = "object/getPrincipalObjectType";
+const userGetOnwerObjectSaveRoute = "object-save/userGetOnwerObjectSave";
+const getAllRecoverAndLoseObjectRoute = "object/getAllRecoverAndLoseObject";
+const getobjectTypeCategorieByIdRoute = "object-type/getobjectTypeCategorieById/";
+const getRightLosePriceByObjectIdRoute = "object/getRightLosePriceByObjectId/";
+const getAllOtherTypeObjectRoute = "object/getAllOtherTypeObject";
+const userDeleteOwnTransactionRoute = "object/userDeleteOwnTransaction/";

@@ -1,0 +1,15 @@
+{
+    "helloWorld": "Hello Wo000rld!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "hello": "Hello {name}",
+    "@hello": {
+    "description": "A welcome message",
+    "Placeholders": {
+    "name": {
+        "type": "String"
+    }
+    }
+    }
+}
